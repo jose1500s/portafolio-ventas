@@ -1,0 +1,2 @@
+# todo lo que este adentro de node_modules no se va a subir a git
+node_modules/

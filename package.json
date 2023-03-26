@@ -1,0 +1,9 @@
+{
+  "name": "TechMDB",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
