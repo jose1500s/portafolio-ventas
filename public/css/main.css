@@ -1,0 +1,17 @@
+:root {
+    --brand-color: #F62F63;
+    --darkest-color: #070616;
+    --dark-color: #171435;
+    --mid-color: #8F8AC0;
+    --light-color: #D6D4E8;
+    --lightest-color: #FFFFFF;
+}
+
+body {
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+}
